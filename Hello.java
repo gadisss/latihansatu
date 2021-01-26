@@ -1,5 +1,5 @@
 class Hello{
 	public static void main(string[] args){
-		system.out.println("gadis: Applikasi Java");
+		system.out.println("gadis: Applikasi Java 2021");
 	}
 }
